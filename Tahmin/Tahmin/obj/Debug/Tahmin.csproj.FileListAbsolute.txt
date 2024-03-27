@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\Tahmin\Tahmin\bin\Debug\Tahmin.exe.config
+C:\Users\user\source\repos\Tahmin\Tahmin\bin\Debug\Tahmin.exe
+C:\Users\user\source\repos\Tahmin\Tahmin\bin\Debug\Tahmin.pdb
+C:\Users\user\source\repos\Tahmin\Tahmin\obj\Debug\Tahmin.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Tahmin\Tahmin\obj\Debug\Tahmin.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\Tahmin\Tahmin\obj\Debug\Tahmin.Form1.resources
+C:\Users\user\source\repos\Tahmin\Tahmin\obj\Debug\Tahmin.Properties.Resources.resources
+C:\Users\user\source\repos\Tahmin\Tahmin\obj\Debug\Tahmin.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Tahmin\Tahmin\obj\Debug\Tahmin.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Tahmin\Tahmin\obj\Debug\Tahmin.exe
+C:\Users\user\source\repos\Tahmin\Tahmin\obj\Debug\Tahmin.pdb
